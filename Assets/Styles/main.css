@@ -27,7 +27,7 @@ p {
 /* Window */
 .window {
 	height: 450px;
-	background: url('Assets/Images/background.png');
+	background: url('/Images/background.png');
 	position: relative;
 	overflow: hidden;
   margin-bottom: 10px;
@@ -51,7 +51,7 @@ p {
 .bird {
 	height: 28px;
 	width: 40px;
-	background: url('Assets/Images/bird_Sprite.png');
+	background: url('/Images/bird_Sprite.png');
 	position: absolute;
 	bottom: 50%;
 	left: 130px;
@@ -79,14 +79,14 @@ p {
 }
 
 .pipe .topHalf {
-	background: url('Assets/Images/pipe.png') bottom;
+	background: url('/Images/pipe.png') bottom;
 	position: absolute;
 	top: 0;
 	width: 100%;
 }
 
 .pipe .bottomHalf {
-	background: url('Assets/Images/pipe.png') top;
+	background: url('/Images/pipe.png') top;
 	position: absolute;
 	bottom: 0;
 	width: 100%;
