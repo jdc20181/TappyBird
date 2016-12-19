@@ -27,7 +27,7 @@ p {
 /* Window */
 .window {
 	height: 450px;
-	background: url('/Images/background.png');
+	background: url('https://jdc20181.github.io/TappyBird/Assets/Images/background.png');
 	position: relative;
 	overflow: hidden;
   margin-bottom: 10px;
@@ -51,7 +51,7 @@ p {
 .bird {
 	height: 28px;
 	width: 40px;
-	background: url('/Images/bird_Sprite.png');
+	background: url('https://jdc20181.github.io/TappyBird/Assets/Images/bird_Sprite.png');
 	position: absolute;
 	bottom: 50%;
 	left: 130px;
@@ -79,14 +79,14 @@ p {
 }
 
 .pipe .topHalf {
-	background: url('/Images/pipe.png') bottom;
+	background: url('https://jdc20181.github.io/TappyBird/Assets/Images/pipe.png') bottom;
 	position: absolute;
 	top: 0;
 	width: 100%;
 }
 
 .pipe .bottomHalf {
-	background: url('/Images/pipe.png') top;
+	background: url('https://jdc20181.github.io/TappyBird/Assets/Images/pipe.png') top;
 	position: absolute;
 	bottom: 0;
 	width: 100%;
