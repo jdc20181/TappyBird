@@ -120,6 +120,6 @@ $(function(){
   	$('.pipe').stop();
     gravity();
   	gameState = 0;
-	  location.reload()
+	  location.reload();
   }
 })
