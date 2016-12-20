@@ -4,6 +4,8 @@ Besides what is in the `About Developing` Section - there are some things we nee
  
  - [ ] Add more Scoring (X10 multiplier)
   
- - [ ] Mobile compatiblilty
+ - [X] Mobile compatiblilty
  
  - [ ] Add Stability Fixes
+
+ - [ ] Fancy Game over Screen Part 1- A basic Screen. 
