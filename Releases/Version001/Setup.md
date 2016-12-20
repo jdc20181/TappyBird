@@ -33,8 +33,6 @@ Here is the main components to make the game work.
  
  `<div class="pipe hidden"></div>`
  
-`</div>
+`</div> <p>Click/Tap or hit space to begin the game.  </p>`
 
-<p>Click/Tap or hit space to begin the game.  </p>
-
-</div>`
+`</div>`
