@@ -120,6 +120,7 @@ $(function(){
   	$('.pipe').stop();
     gravity();
   	gameState = 0;
-	  location.reload();
+	  /*location.reload();*/
+	   dialog.show("Final Score" & .score)
   }
 })
