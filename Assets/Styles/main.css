@@ -91,3 +91,8 @@ p {
 	bottom: 0;
 	width: 100%;
 }
+/* CSS is not needed for releases below this line */
+
+.body{
+	background-color:#333;
+}
