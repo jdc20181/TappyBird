@@ -14,7 +14,17 @@ Patches are what will make up a entire release. These are done hourly, Daily, We
 The first 20 Releases will come fast with small improvments. Version 0.1.0 will come after the first `9` releases - `0.0.1-0.0.9`
 
 
+*Version 0.0.1.2*
+
+  - Added a Game over dialog. Using alert. 
+      - Working to convert it to a dialog, and make it more fancy. 
+      
+  - A Few Bugs/Glitches were addressed. Some resolved. Some not. 
+  
+  - Prep. for Version 0.0.2 was made. 
+  
+  
 *Version 0.0.1.1*
   - Fixed: Turns out Jquery takes care of the touchscreen events for us. 
   
-  - Fixed: Mobile devices like to move around the game window *Pending*
+  - Fixed: Mobile devices like to move around the game window 
