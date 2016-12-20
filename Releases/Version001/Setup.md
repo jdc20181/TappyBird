@@ -22,11 +22,19 @@ Here is the main components to make the game work.
 
 
 `<div class="wrapper">`
+
 `<div class="window">`
+
 `<p class="score">0</p>`
+
  `<div class="bird"></div>`
+ 
  `<div class="pipe hidden"></div>`
+ 
  `<div class="pipe hidden"></div>`
+ 
 `</div>
+
 <p>Click/Tap or hit space to begin the game.  </p>
+
 </div>`
