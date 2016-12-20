@@ -126,5 +126,6 @@ $(function(){
  alert("Final Score" + " " + $('.score').text())*/
 
 	  alert("Final Score" + " " + $('.score').text())
+	  location.reload()
   }
 })
