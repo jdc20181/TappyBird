@@ -121,6 +121,6 @@ $(function(){
     gravity();
   	gameState = 0;
 	  /*location.reload();*/
-	   dialog.show("Final Score" & .score)
+	 alert("Final Score" & $('.score').text
   }
 })
