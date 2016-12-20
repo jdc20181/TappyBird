@@ -121,6 +121,6 @@ $(function(){
     gravity();
   	gameState = 0;
 	  /*location.reload();*/
-	 alert("Final Score" + $('score').text())
+	 alert("Final Score" + $('.score').text())
   }
 })
