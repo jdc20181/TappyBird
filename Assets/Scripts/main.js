@@ -121,6 +121,10 @@ $(function(){
     gravity();
   	gameState = 0;
 	  /*location.reload();*/
-	 alert("Final Score" + " " + $('.score').text())
+	 
+	/*var x = document.getElementById("Game-Over"); 
+ alert("Final Score" + " " + $('.score').text())*/
+
+	  alert("Final Score" + " " + $('.score').text())
   }
 })
