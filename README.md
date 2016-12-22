@@ -14,6 +14,15 @@ Patches are what will make up a entire release. These are done hourly, Daily, We
 The first 20 Releases will come fast with small improvments. Version 0.1.0 will come after the first `9` releases - `0.0.1-0.0.9`
 
 
+*Version 0.0.1.3*
+
+  -  Addressed a Bug with scoring (See issue 1)
+
+  -  Made the first level easy. 
+  
+  - Added a What's New Dialog. 
+  
+  
 *Version 0.0.1.2*
 
   - Added a Game over dialog. Using alert. 
