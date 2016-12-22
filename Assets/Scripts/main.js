@@ -1,8 +1,8 @@
 $(function(){
 	$window = $('.window'),
 	$bird = $('.bird'),
-  fallTime = 1000,
-  gapHeight = 120,
+  fallTime = 500,
+  gapHeight = 70,
   gameState = 2,
   pipeId = 0;
 
