@@ -66,14 +66,14 @@ function closeDialog() {
     cursor: pointer;
 }
 </style>
-</head>
-<body>
 
+
+<button id="Button1">
 <h2>What's New
 </h2>
+	</button>
 
 <!-- Trigger/Open The Modal -->
-
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
@@ -92,13 +92,13 @@ function closeDialog() {
 var modal = document.getElementById('myModal');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn");
+var btn = document.getElementById("Button1");
 
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal 
-window.onload = function() {
+btn.onclick = function() {
     modal.style.display = "block";
 }
 
