@@ -7,12 +7,35 @@ Most of the code I am using is widely available via a quick google search - But 
 
 <a href="https://jdc20181.github.io/TappyBird/">Enjoy!</a>
 
+#Release Log
+
+*Version 0.0.2*
+
+This release is packed! 
+
+Bug Fixes, Leveling has been started. 
+
+Suggestions are welcome!
+
 
 #Patch- Log
 
 Patches are what will make up a entire release. These are done hourly, Daily, Weekly, monthly. The bigger the task the longer it takes. Releases will be done after the last number reaches 9 - Which in return means there could be up to 9 patches in a release. 
-The first 20 Releases will come fast with small improvments. Version 0.1.0 will come after the first `9` releases - `0.0.1-0.0.9`
+The first 20 Releases will come fast with small improvments. Version 0.1.0 will come after the first X amount  releases - 
 
+
+
+
+
+
+
+
+
+
+
+
+
+*Version 0.0.1 Completed New Release*
 
 *Version 0.0.1.3*
 
