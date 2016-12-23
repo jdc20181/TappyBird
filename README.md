@@ -23,40 +23,19 @@ Suggestions are welcome!
 Patches are what will make up a entire release. These are done hourly, Daily, Weekly, monthly. The bigger the task the longer it takes. Releases will be done after the last number reaches 9 - Which in return means there could be up to 9 patches in a release. 
 The first 20 Releases will come fast with small improvments. Version 0.1.0 will come after the first X amount  releases - 
 
+For old releases see the <a href="https://github.com/jdc20181/TappyBird/tree/master/Releases/ChangeLogArchive">`ChangeLog Archive` </a>
+
+*Version 0.0.2.1 PRE-Release*
+
+Coming over the next day or so you will see this release. It will fix a couple visual bugs. 
+
+*Version 0.0.2*
+
+This is the inital release covering all of Version 0.0.1 bug fixes and enhancments. 
 
 
 
 
 
 
-
-
-
-
-
-
-*Version 0.0.1 Completed New Release*
-
-*Version 0.0.1.3*
-
-  -  Addressed a Bug with scoring (See issue 1)
-
-  -  Made the first level easy. 
-  
-  - Added a What's New Dialog. 
-  
-  
-*Version 0.0.1.2*
-
-  - Added a Game over dialog. Using alert. 
-      - Working to convert it to a dialog, and make it more fancy. 
-      
-  - A Few Bugs/Glitches were addressed. Some resolved. Some not. 
-  
-  - Prep. for Version 0.0.2 was made. 
-  
-  
-*Version 0.0.1.1*
-  - Fixed: Turns out Jquery takes care of the touchscreen events for us. 
-  
-  - Fixed: Mobile devices like to move around the game window 
+ 
