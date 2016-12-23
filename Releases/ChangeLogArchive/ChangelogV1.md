@@ -18,7 +18,8 @@ The following Versions will be archived here:
 To Read Each log it goes from `Bottom` to `Top` So for example `Version 1` would be at the bottom and
 `Version 1.1` would be at the top. Same applies for the log as a whole. All of the `Version 1`
 notes will be at the bottom and the latest archived release e.g. `Version 2` will be on the top. 
- #Version 0.0.1
+
+#Version 0.0.1
  
  *Version 0.0.1 Completed New Release*
 
