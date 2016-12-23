@@ -3,11 +3,11 @@
 The following Versions will be archived here:
 
 *If checked that means that is a archived Release. If unchecked that could be either a current release or future release.*
- - [ X ] Version 0.0.1
+ -  [X] Version 0.0.1
  
- - [  ] Version 0.0.2
- 
- - [  ] Version 0.0.3
+ - [   ] Version 0.0.2
+
+-  [   ] Version 0.0.3
  
  
  Each Log will have all the patch notes from the main respo that were taken during that release. 
