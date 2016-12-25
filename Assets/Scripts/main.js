@@ -120,11 +120,6 @@ $(function(){
   	$('.pipe').stop();
     gravity();
   	gameState = 0;
-	  /*location.reload();*/
-	 
-	/*var x = document.getElementById("Game-Over"); 
- alert("Final Score" + " " + $('.score').text())*/
-
 	  alert("Final Score" + " " + $('.score').text())
 	  location.reload()
   }
