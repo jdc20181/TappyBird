@@ -29,7 +29,15 @@ For old releases see the <a href="https://github.com/jdc20181/TappyBird/tree/mas
 
   - Addesses a visual Bug
   
-  - Adds a better scoring system. 
+  - Add a better scoring system. 
+  
+  - Fixed Height issue. 
+  
+  - Added a Title Bar to add the feel of a mobile app. 
+  
+  - Fixed a lag gltich^
+  
+  ^The fix is only small - you will stil have the issue. Just tap or click the URL  bar and hit enter. this will Re-Load manually fixing the issue. 
 
 *Version 0.0.2*
 
