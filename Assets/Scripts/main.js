@@ -110,7 +110,7 @@ $(function(){
           gameEnd();
         }
       } else if($bird.offset().left >= (curPipe.offset().left + curPipe.width())){
-        $('.score').text(curPipe.attr('pipe-id'));
+        $('.score').text(10 * curPipe.attr('pipe-id')); /* Scoring Mech. */
       }
     }
   }
