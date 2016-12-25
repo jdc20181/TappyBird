@@ -25,9 +25,11 @@ The first 20 Releases will come fast with small improvments. Version 0.1.0 will 
 
 For old releases see the <a href="https://github.com/jdc20181/TappyBird/tree/master/Releases/ChangeLogArchive">`ChangeLog Archive` </a>
 
-*Version 0.0.2.1 PRE-Release*
+*Version 0.0.2.1*
 
-Coming over the next day or so you will see this release. It will fix a couple visual bugs. 
+  - Addesses a visual Bug
+  
+  - Adds a better scoring system. 
 
 *Version 0.0.2*
 
