@@ -25,6 +25,16 @@ The first 20 Releases will come fast with small improvments. Version 0.1.0 will 
 
 For old releases see the <a href="https://github.com/jdc20181/TappyBird/tree/master/Releases/ChangeLogArchive">`ChangeLog Archive` </a>
 
+*Version 0.0.2.2 Part 1*
+
+This version will be featured into several parts. 
+
+The first part will fix IOS Phones. 
+
+Part 2 & 3 will cover IOS and Android Tablets, and Android Phones. 
+
+Windows Phones will not be added at this time. 
+
 *Version 0.0.2.1*
 
   - Addesses a visual Bug
