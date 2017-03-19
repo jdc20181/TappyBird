@@ -33,6 +33,7 @@ p {
 	position: relative;
 	overflow: hidden;
   margin-bottom: 10px;
+	max-width:500px;
 }
 
 /* Score */
