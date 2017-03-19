@@ -2,7 +2,7 @@
 
 Simply resize your browser to make the game performance better. 
 
-IF your score lags - e.g. getting 0 when you should be getting a score simply refresh a couple times its a issue beyond my control at this time. *Got a solution? PR is welcome :) *
+IF your score lags - e.g. getting 0 when you should be getting a score simply refresh a couple times its a issue beyond my control at this time. *Got a solution? PR is welcome :)*
 
 
 *Version 0.1.0*
