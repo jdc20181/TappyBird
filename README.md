@@ -1,4 +1,4 @@
-** Notes on latest release!!**
+**Notes on latest release!!**
 
 Simply resize your browser to make the game performance better. 
 
