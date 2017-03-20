@@ -3,7 +3,7 @@ $(function(){
 	$bird = $('.bird'),
   fallTime = 1000,
   gapHeight = 295,
-  gameState = 3, /*2 orignally*/
+  gameState = 2, 
   pipeId = 0;
 
 	var int = setInterval(function(){
