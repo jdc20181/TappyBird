@@ -73,6 +73,12 @@ This is the inital release covering all of Version 0.0.1 bug fixes and enhancmen
 
 
 
+# Reusable Guide
 
+Install and setup, and make sure the user knows to have the browser window no wider than 500px or larger (in height) 500px
+
+A "Client" is reccomended, you cna use Awesomium or a in app browser for mobile devices. 
+
+Either way, all old versions are no longer supported this version formats to peoples screens better
 
  
