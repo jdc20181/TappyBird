@@ -1,3 +1,7 @@
+*Patch update*
+
+I added a Open in Window button it will automatically size to the perfect size. I will adjust this as it is needed. 
+
 **Notes on latest release!!**
 
 Simply resize your browser to make the game performance better. 
