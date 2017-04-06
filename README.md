@@ -1,6 +1,12 @@
-*Patch update*
+# Information
 
-I added a Open in Window button it will automatically size to the perfect size. I will adjust this as it is needed. 
+*TappyBird For Android*
+
+See the [wiki](https://github.com/jdc20181/TappyBird/wiki/Release-of-TappyBird-for-Android)
+
+*Dynamic offline Loading*
+
+See [wiki](https://github.com/jdc20181/TappyBird/wiki/Dynamic-Offline-Loading-Across-Platforms)
 
 **Notes on latest release!!**
 
