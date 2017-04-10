@@ -68,7 +68,7 @@ $(function(){
 
 	function gravity(){
     birdPercent = parseInt($bird.css('bottom')) / $window.height();
-    totalFallTime = fallTime * birdPercent * 2; /* Experiment */
+    totalFallTime = fallTime * birdPercent; /* Experiment */
 		$bird.stop().animate({
 			bottom: '0'
 		}, totalFallTime, 'linear');
