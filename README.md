@@ -1,3 +1,14 @@
+**First Time Maintenance!**
+
+During this time the game will *not* be playable. You will see a Screen that says we are undergoing changes, try again soon. 
+
+During this time, also, I will be re-assessing the UI situation and acting on some changes. 
+
+During the *next* maintenance, the Android App Details  will be released. 
+
+
+See the [Wiki](https://github.com/jdc20181/TappyBird/wiki/What-is-maintenance-%3F) for more info!
+
 # Information
 
 *TappyBird For Android*
