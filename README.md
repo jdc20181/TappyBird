@@ -41,7 +41,12 @@ Most of the code I am using is widely available via a quick google search - But 
 <a href="https://jdc20181.github.io/TappyBird/">Enjoy!</a>
 
 # Release Log
+*Version 0.0.3*
 
+ - Misc Fixes, and improvments.
+ - Music! **All music is public domain!**
+ 
+ 
 *Version 0.0.2*
 
 This release is packed! 
