@@ -7,7 +7,7 @@
 	 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <dialog class="Game-Over"> <a onclick="closeDialog();">Close</a></dialog><!--This line is experimental-->
-<body class="body" onload="Public_Function()"> <!-- This isn't needed for any release-->
+<body class="body" onload="Volume()"> <!-- This isn't needed for any release-->
 <div class="wrapper">
  <div class="window">
     <p class="score">0</p>
@@ -34,7 +34,7 @@ function closeDialog() {
 } 
 </script>
 <script>
-	function Public_Function{
+	function Volume{
    var vid = document.getElementById("Audio");
     vid.volume = 0.2;
 	}
