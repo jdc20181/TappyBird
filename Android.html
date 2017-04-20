@@ -1,0 +1,43 @@
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<title>Tappy Bird </title>
+	<link rel="stylesheet" type="text/css" href="Assets/Styles/mobile.css">
+<link rel="stylesheet" type="text/css" href="Assets/Styles/main.css">
+	<script src="Assets/Scripts/main.js" typee="text/javascript"></script>	
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<dialog class="Game-Over"> <a onclick="closeDialog();">Close</a></dialog><!--This line is experimental-->
+<body class="body" onload="Volume()"> <!-- This isn't needed for any release-->
+<div class="wrapper">
+ <div class="window">
+    <p class="score">0</p>
+	  <div class="bird"></div>
+    
+    <div class="pipe hidden"></div>
+    <div class="pipe hidden"></div>
+  </div>
+  
+  <p>Click/Tap or hit space to begin the game.  </p>
+</div>
+</body>
+
+<!--Experimental!-->
+<audio id="Audio" loop autoplay >
+  <!--<source src="https://gamesounds.xyz/OpenBundle/Background%20Music%20and%20Loops/8-bit%20loop%20%28loop%29.mp3" type="audio/mpeg">-->
+	<source src="https://gamesounds.xyz/OpenBundle/Background%20Music%20and%20Loops/ChipChippy%20%28loop%29.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<script>
+var x = document.getElementById("Game-Over"); 
+function closeDialog() { 
+    x.close(); 
+} 
+</script>
+<script>
+	function Volume{
+   var vid = document.getElementById("Audio");
+    vid.volume = 0.2;
+	}
+</script>
+
+</html>
