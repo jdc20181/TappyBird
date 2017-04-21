@@ -1,0 +1,124 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: 0;
+  font-family: segoe ui, helvetica neue, helvetica, arial, sans-serif;
+  font-weight: 200;
+  -webkit-font-smoothing: antialiased;
+  user-select: none;
+}
+
+body {
+  font-size: 14px;
+  Margin:0;	
+  max-width:500px;
+	color:white;
+	
+}
+
+p {
+  font-size: 90%;
+  line-height: 25px;
+}
+
+/* Wrapper */
+.wrapper {
+  width: 350px;
+  margin: 20px auto;
+}
+
+/* Window */
+.window {
+	height:450px;
+	background: url('https://jdc20181.github.io/TappyBird/Assets/Images/background.png');
+	position: relative;
+	overflow: hidden;
+  margin-bottom: 10px;
+	max-width:500px;
+}
+
+/* Score */
+.score {
+  position: absolute;
+  width: 100%;
+  display: block;
+  text-align: center;
+  font-size: 250%;
+  padding-top: 20px;
+  color: #fff;
+  font-weight: 700;
+  text-shadow: 2px 2px 0 #000;
+  z-index: 4;
+}
+
+/* Bird */
+.bird {
+	height: 28px;
+	width: 40px;
+	background: url('https://jdc20181.github.io/TappyBird/Assets/Images/bird_Sprite.png');
+	position: absolute;
+	bottom: 50%;
+	left: 130px;
+	z-index: 3;
+  animation: birdFlap 0.2s steps(3, end) infinite alternate;
+  transition: transform 0.3s;
+}
+
+@keyframes birdFlap {  
+  0% {background-position: 0 84px;}
+  100% {background-position: 0 0;}
+}
+
+/* Pipes */
+.pipe {
+	width: 60px;
+	height: 100%;
+	position: absolute;
+	right: -60px;
+	z-index: 2;
+}
+
+.pipe.hidden {
+  display: none;
+}
+
+.pipe .topHalf {
+	background: url('https://jdc20181.github.io/TappyBird/Assets/Images/pipe.png') bottom;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.pipe .bottomHalf {
+	background: url('https://jdc20181.github.io/TappyBird/Assets/Images/pipe.png') top;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+/* CSS is not needed for releases below this line */
+
+.body{
+	background-color:#333;
+}
+.bar{
+    list-style-type: none;
+    text-align:center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+@media all and (max-device-width: 1280px){
+.window {
+	height:450px;
+	background: url('https://jdc20181.github.io/TappyBird/Assets/Images/background.png');
+	position: relative;
+	overflow: hidden;
+  margin-bottom: 10px;
+	max-width:1280px;
+}
+
+}
